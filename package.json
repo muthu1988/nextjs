@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p 3002",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "jquery": "^3.6.3",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "text-signature": "^1.1.2"
+  }
+}
